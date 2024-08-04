@@ -2,5 +2,23 @@
   "type": "module",
   "dependencies": {
     "openai": "latest"
-  }
+  },
+  "name": "openai-nodejs-sample",
+  "version": "1.0.0",
+  "main": "multi_turn_sample.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/openai.git"
+  },
+  "author": "Ally Elvis Nzeyimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allyelvis/openai/issues"
+  },
+  "homepage": "https://github.com/allyelvis/openai#readme",
+  "description": ""
 }
