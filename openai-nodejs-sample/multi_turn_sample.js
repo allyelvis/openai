@@ -1,4 +1,4 @@
-import OpenAI from "openai";
+gitimport OpenAI from "openai";
 
 const token = process.env["GITHUB_TOKEN"];
 const endpoint = "https://models.inference.ai.azure.com";
